@@ -33,7 +33,7 @@ In this project you will build such a pipeline.
 
 ## Links
 
-[Weights & Biases project](https://wandb.ai/blacktooth/nyc_airbnb)
+[Weights & Biases project](https://wandb.ai/sabrine-krichen/nyc_airbnb?workspace=user-sabrine-krichen)
 [Github Repo](https://github.com/sabrinekr/build-ml-pipeline-for-short-term-rental-prices)
 
 ## Preliminary steps
