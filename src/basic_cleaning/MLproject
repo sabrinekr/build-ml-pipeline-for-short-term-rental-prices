@@ -6,28 +6,28 @@ entry_points:
     parameters:
 
       input_artifact:
-        description: ## ADD DESCRIPTION
+        description: "The to be cleaned dataset"
         type: string
 
       output_artifact:
-        description: ## ADD DESCRIPTION
+        description: "The name of the cleaned dataset"
         type: string
 
       output_type:
-        description: ## ADD DESCRIPTION
+        description: "The type of the output"
         type: string
 
       output_description:
-        description: ## ADD DESCRIPTION
+        description: "A brief description about the output"
         type: string
 
       min_price:
-        description: ## ADD DESCRIPTION
-        type: string
+        description: "Minimum price allowed price (serves to deal with outliers)"
+        type: float
 
       max_price:
-        description: ## ADD DESCRIPTION
-        type: string
+        description: "Maximum price allowed price (serves to deal with outliers)"
+        type: float
 
 
     command: >-
